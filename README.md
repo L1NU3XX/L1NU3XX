@@ -12,7 +12,7 @@
 <p align="center">
   <strong><a href="https://www.youtube.com/c/3XPLOITIDOFFICIAL">Official Youtube</a></strong> |
   <strong><a href="https://twitter.com/MR_L1NU3X">Twitter</a></strong> |
-  <strong><a href="https://www.instagram.com/3xploit.id/?hl=en">Instagram</a></strong>
+  <strong><a href="https://www.instagram.com/3xploit.id/?hl=en">Instagram</a></strong> |
   <strong><a href="https://web.facebook.com/linux.gans/">Facebook</a></strong>
 </p>
 
